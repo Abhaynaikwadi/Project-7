@@ -1,5 +1,20 @@
-# Replicate the Following Output
+# Project 7
 
-`Assests are Provided!`
+Using html and css
 
-![Project 1](./Credit%20card%20landing%20page.png)
+## Skill gain from this Project
+
+- Detailed knowledge of html and css
+- How to use positions
+- How to use margin and padding
+- Learning px,rem,vh, etc
+- How to use flexbox
+
+## Time taken to complete this Project 
+
+ 13 hours
+
+ 
+
+ 
+ [Live link](https://fabulous-brioche-409e0c.netlify.app/)
